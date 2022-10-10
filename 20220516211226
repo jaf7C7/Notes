@@ -1,0 +1,115 @@
+# Self Study Roadmap
+
+#CourseNotes #SelfStudy
+
+## Courses
+
+- [Winc][winc]
+- [Learn Javascript - MDN][mdn]
+- [Eloquent Javascript - Marijn Haverbeke][eloquentjs]
+- [Learning How To Learn - Coursera][lhtl](LHTL)
+- [A Mind For Numbers - Barbara Oakley][amfn](AMFN)
+- [Learn With Leon (Youtube (#100Devs))][leonyt]
+- [Learn With Leon (Discord)][leondc]
+
+## Roadmap
+
+Semi logical pathway through several different courses:
+
+### Learning How To Learn
+
+1. LHTL        - Week 1
+1. AMFN        - Ch.1-4
+1. LHTL        - Week 2
+1. AMFN        - Ch.4-8
+1. LHTL        - Week 3
+1. AMFN        - Ch.8-12
+1. LHTL        - Week 4
+1. AMFN        - Ch.12-END
+
+### Objects and Arrays
+
+1. MDN         - Working With JSON Data
+1. MDN         - Object Building Practice
+1. MDN         - Assessment: Bouncing Balls
+
+### Advanced Javascript
+
+1. Eloquent JS - Bugs and Errors
+1. Eloquent JS - Regular Expressions
+1. Eloquent JS - Modules
+
+### Asynchronous Javascript
+
+1. Winc        - How Does The Internet Work?
+1. MDN         - Introducing Asynchronous Javascript
+1. MDN         - How To Use Promises
+1. MDN         - Implementing a Promise-Based API
+1. Winc        - Asynchronous Javascript
+1. Winc        - Async and Await
+1. Winc        - Working With Big Chunks of Data
+1. Eloquent JS - Asynchronous Programming
+1. Eloquent JS - Project: A Programming Language
+1. MDN         - Introducing Workers
+1. MDN         - Assessment: Sequencing Animations
+
+### APIs
+
+1. MDN         - Introduction To Web APIs
+1. MDN         - Manipulating Documents
+1. MDN         - Fetching Data From The Server
+1. Eloquent JS - The Document Object Model
+1. Eloquent JS - Handling Events
+1. Eloquent JS - Project: A Platform Game
+1. MDN         - Third Party APIs
+1. MDN         - Drawing Graphics
+1. MDN         - Video and Audio APIs
+1. MDN         - Client-Side Storage
+1. Eloquent JS - Project: A Pixel Art Editor
+
+### Testing & Methodology
+
+1. Winc        - Scrum
+1. Winc        - Unit Testing: Basics
+1. Winc        - Test-Driven Development
+1. Winc        - Unit Testing: Advanced
+
+### Node.js
+
+1. Eloquent JS - Node.js
+1. Eloquent JS - Project: Skill-Sharing Website
+
+### React
+
+1. Winc        - React Introduction
+1. Winc        - React Advanced
+1. Winc        - React Shopping List & Cart
+1. Winc        - React State Management
+1. Winc        - Debugging
+1. Winc        - Domain Modelling
+
+### "End" of Front-End
+
+1. Winc        - Complete and modified/incomplete previous modules (CSS etc.)
+1. Winc        - Assignment: Student Dashboard
+
+### Linux
+
+* [Debian installation guide][debinst]
+* [Linux From Scratch][lfs]
+* [Debian Reference][debref]
+* [Debian Administrator's Handbook][debadmin]
+* [Unix and Linux System Administration Handbook][nemeth]
+
+[winc]: https://board.wincacademy.nl
+[mdn]: https://developer.mozilla.org/en-US/docs/Learn/JavaScript
+[eloquentjs]: https://eloquentjavascript.net
+[lhtl]: https://www.coursera.org/learn/learning-how-to-learn/home/welcome 
+[amfn]: file:/home/joss/Documents/oakley--a-mind-for-numbers.pdf
+[leonyt]: https://www.youtube.com/channel/UCGiRSHBdWuCgjgmPPz_13xw/playlists
+[leondc]: https://discord.com/channels/735923219315425401/738891289071714388
+[debinst]: https://www.debian.org/releases/stable/amd64/
+[lfs]: https://www.linuxfromscratch.org/lfs/read.html
+[debref]: https://www.debian.org/doc/manuals/debian-reference/index.en.html
+[debadmin]: https://www.linuxfromscratch.org/lfs/read.html
+[nemeth]: file://localhost/home/joss/Documents/sysadmin-handbook.pdf

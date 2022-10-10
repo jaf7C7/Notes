@@ -1,0 +1,44 @@
+# Get the last argument passed to a script/function
+
+#Shell #POSIX #Bash
+
+## POSIX
+
+
+*For loop using default variable:*
+```sh
+for _ do : "$_"; done; printf '%s\n' "$_"
+```
+
+*Subshell (not all systems support '$((...))'):*
+```sh
+( shift $(($# - 1)); printf '%s\n' "$1" )
+```
+
+*Function (usage: `ntharg $# "$@"`):*
+```sh
+ntharg() { shift "$1"; printf '%s\n' "$1" }
+```
+
+## Bash
+
+*Indirection:*
+```sh
+printf '%s\n' "${!#}"
+```
+
+*Substring expansion:*
+```sh
+printf '%s\n' "${@:$#}"
+```
+
+*Alternative form of the above. Note the space between ':' and '-'*
+*to distinguish from ':-' (fallback value if parameter unset or null):*
+```sh
+printf '%s\n' "${@: -1}"
+```
+
+```
+
+<https://stackoverflow.com/questions/1853946/getting-the-last-argument-passed-to-a-shell-script#comment104235724_1853993>
+

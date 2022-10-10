@@ -1,0 +1,16 @@
+# Tmux/Screen Passthrough Sequence
+
+#Tmux #Screen #Documentation
+
+Tmux:
+```
+ESC P tmux ; ESC ... ESC \
+```
+<https://github.com/tmux/tmux/issues/487>
+
+Screen:
+```
+ESC P ... ESC \
+```
+<https://www.gnu.org/software/screen/manual/screen.html>
+
