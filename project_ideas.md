@@ -1,11 +1,26 @@
+# Project Ideas
+
+:warning: **NOTE**: Use [effective problem-solving techniques](https://developer.mozilla.org/en-US/docs/Learn/Learning_and_getting_help#effective_problem-solving) to break larger projects down into smaller tasks.
+
+
 * Image gallery
+
 * Website theme switcher (sun to moon toggle)
+
 * Calculator
+
 * Create a web dev playground (jsfiddle clone)
+
+* Who's my MP? enter postcode and get your MP info (commons api)
+
 * Lorem Picsum clone (API wrapper for unsplash)
+
 * Live markdown preview using browser-sync
+
 * Calendar
+
 * Toast POS clone
+
 * GitHub Pages site:
   + Hosts front-end projects, and the front-end of full-stack projects.
   + The backend of full-stack projects is hosted on some free service and
