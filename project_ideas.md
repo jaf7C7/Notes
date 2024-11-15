@@ -21,6 +21,10 @@
 
 * Toast POS clone
 
+* Twitter threadreader app clone
+
+* A [Kanban board](https://www.youtube.com/watch?v=R8dYLbJiTUE)
+
 * GitHub Pages site:
   + Hosts front-end projects, and the front-end of full-stack projects.
   + The backend of full-stack projects is hosted on some free service and
