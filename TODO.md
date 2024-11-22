@@ -5,6 +5,7 @@
     + **28 Feb**: [Vodafone Software Engineering Apprentice](https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000284470)
 
 * Refactor `acc` project using software development best practices (see [TODO list](file:///home/jfox/Projects/acc/TODO.md)) so you can use it as a case study for the [BBC application](file:///home/jfox/Jobs/applications/bbc)
+    + DEADLINE: 25 Nov
 
 * Make sure you understand [Javascript prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes).
 
@@ -77,3 +78,9 @@
 * Complete [IBM IT Scrum Master Professional Certificate](https://www.coursera.org/professional-certificates/ibm-it-scrum-master)
 
 * Complete a [project](~/Notes/project_ideas.md) of your choice (make it **simple**!).
+
+* Complete the [Flask Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
+
+* Create a REST API project
+
+* Complete the [React Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-react-mega-tutorial-chapter-1-modern-javascript)
