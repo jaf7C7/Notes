@@ -1,11 +1,6 @@
 # TODO.
 
-* **Apply for apprenticeships (most starting Sept 2025 and need to apply before Dec 2024)**.
-    + **Dec 8**: [BBC Software Engineering Grad Scheme](https://careers.bbc.co.uk/job/London-THE-BBC-SOFTWARE-ENGINEERING-GRADUATE-SCHEME-2025-W1A-1AA/806024202/)
-    + **28 Feb**: [Vodafone Software Engineering Apprentice](https://www.findapprenticeship.service.gov.uk/apprenticeship/VAC1000284470)
-
-* Refactor `acc` project using software development best practices (see [TODO list](file:///home/jfox/Projects/acc/TODO.md)) so you can use it as a case study for the [BBC application](file:///home/jfox/Jobs/applications/bbc)
-    + DEADLINE: 25 Nov
+* Finish [acc-api](https://github.com/jaf7C7/acc-api)
 
 * Make sure you understand [Javascript prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes).
 
@@ -84,3 +79,5 @@
 * Create a REST API project
 
 * Complete the [React Mega-Tutorial](https://blog.miguelgrinberg.com/post/the-react-mega-tutorial-chapter-1-modern-javascript)
+
+* Make sure you can answer all [these questions](https://docs.google.com/spreadsheets/d/1GF0UQZ05chcMbikyGlDRoTb2t6hsx-LD2steJwvGz34/edit?gid=0#gid=0)
