@@ -1,7 +1,5 @@
 # TODO.
 
-* Finish [acc-api](https://github.com/jaf7C7/acc-api)
-
 * Make sure you understand [Javascript prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes).
 
 * Complete [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming) from 'Object-oriented programming' to 'Adding features to our bouncing balls demo'.
