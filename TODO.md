@@ -14,6 +14,10 @@
 
 * Complete [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs) all sections.
 
+* Complete [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
+
+* Complete [Modern JavaScript Tutorial](https://javascript.info/)
+
 * Read [Agile Software Development Handbook](https://www.freecodecamp.org/news/agile-software-development-handbook/)
 
 * Read [Agile Planning](https://launchschool.com/books/agile_planning)
