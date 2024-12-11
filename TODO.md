@@ -1,10 +1,6 @@
-# TODO.
+# TODO
 
-* Make sure you understand [Javascript prototypes](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_prototypes).
-
-* Complete [Introducing JavaScript Objects](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object-oriented_programming) from 'Object-oriented programming' to 'Adding features to our bouncing balls demo'.
-
-* Complete [MERN course](https://www.udemy.com/course/fullstack-web-development-course-projects-base/learn/lecture/41148122#overview) sections 24 to 29.
+* Complete [MERN course](https://www.udemy.com/course/fullstack-web-development-course-projects-base/learn/lecture/41148122#overview) sections 9, 13 (#138 only), 14 (#155 only), 15, 20 to 29.
 
 * Complete [Asynchronous JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Asynchronous) all sections.
 
@@ -15,8 +11,6 @@
 * Complete [Client-side web APIs](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs) all sections.
 
 * Complete [JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
-
-* Complete [Modern JavaScript Tutorial](https://javascript.info/)
 
 * Read [Agile Software Development Handbook](https://www.freecodecamp.org/news/agile-software-development-handbook/)
 
