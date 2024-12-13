@@ -23,9 +23,9 @@ Web project hosting:
 
 ----
 
-* Website theme switcher (sun to moon toggle)
+* Calculator (vanilla js, bootstrap)
 
-* Calculator
+* Website theme switcher (sun to moon toggle)
 
 * Small JS Projects: https://www.youtube.com/playlist?list=PLZlA0Gpn_vH8DWL14Wud_m8NeNNbYKOkj
 
@@ -35,7 +35,7 @@ Web project hosting:
 
 * Lorem Picsum clone (API wrapper for unsplash)
 
-* Live markdown preview using browser-sync
+* Live markdown preview using websockets
 
 * Calendar
 
